@@ -1,4 +1,4 @@
-This is basic coffee ordering app
+This is basic coffee ordering app.
 No ui or ux
 #
 To run it
