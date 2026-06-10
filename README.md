@@ -4,5 +4,5 @@
  ***No ui or ux***
 
 To run it
-Download the file and go to that folder with *cmd*
-Type `python main.py`
+Download the file and go to that folder with *cmd*,
+type `python main.py`
